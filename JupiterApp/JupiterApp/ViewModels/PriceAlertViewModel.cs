@@ -43,7 +43,7 @@ namespace JupiterApp.ViewModels
                 var items1 = new List<Item>()
                 {
                     new Item { Id = Guid.NewGuid().ToString(), Text = "Wuye", Description="Get price in Wuye" },
-                    new Item { Id = Guid.NewGuid().ToString(), Text = "Wusa", Description="Get price in Wusa" },
+                    new Item { Id = Guid.NewGuid().ToString(), Text = "Wuse", Description="Get price in Wuse" },
                     new Item { Id = Guid.NewGuid().ToString(), Text = "Garki", Description="Get price in Garki" },
                     new Item { Id = Guid.NewGuid().ToString(), Text = "Gwarinpa", Description="Get price in Gwarinpa" },
                 };
